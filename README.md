@@ -1,4 +1,4 @@
-# SQL, Neo4j(CQL), and MongoDB(MQL) Queries
+# MySQL Workbench(MySQL), Neo4j(CQL), and MongoDB(MQL) Queries
 
 - SQL queries for world database(countries, city, country language, life expectancy, languages spoken),
 resturant database(resturants, dishes, highest-lowest price, locations),
