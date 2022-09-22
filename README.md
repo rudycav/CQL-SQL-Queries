@@ -14,3 +14,9 @@ found at: https://github.com/taitcha/American_cabinet_appointments/find/master
 MongoDB(MQL) queries for country locations, classification & movie database
 
 ## Neo4j Graph Database
+
+![](screenshots/graph1.JPG)
+
+![](screenshots/graph2.JPG)
+
+![](screenshots/graph3.JPG)
