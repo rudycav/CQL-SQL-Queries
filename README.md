@@ -7,9 +7,7 @@ Trump. It consists of a number of files and tracks information such as the appoi
 name, the position title, information on the history of the position itself (such as year 
 established, renamings, etc), whether the appointee served in the military, went to 
 college, and whether the appointment was rejected or revised. The files can be 
-found at:
-
-https://github.com/taitcha/American_cabinet_appointments/find/master
+found at: https://github.com/taitcha/American_cabinet_appointments/find/master
 
 Loading Positions.csv
 
