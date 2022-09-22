@@ -42,7 +42,8 @@ FROM menu_items, dishes
 WHERE menu_items.dish_id=dishes.dish_id AND NAME LIKE '%curry%';
 
 
---Write a query that  returns the menu sponsor (the restaurant name for the most part), the menu location, the menu place, and the full dish name for all dishes that include some keyword (I used “lo mein” ).
+--Write a query that  returns the menu sponsor (the restaurant name for the most part), the menu location, the menu place, and the full dish name 
+--for all dishes that include some keyword (I used “lo mein” ).
 SELECT menus.sponsor, menus.place, menus.location, dishes.NAME
 FROM menus, menu_pages, menu_items, dishes
 WHERE menus.menu_id = menu_pages.menu_id
