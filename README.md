@@ -1,9 +1,9 @@
 # MQL-Project-SQL-Queries
 
-Loading Positions.csv
+###Loading Positions.csv
 ![](ss/load_positions.JPG)
 
-Loading Appintments.csv
+###Loading Appintments.csv
 ![](ss/load_appointments.JPG)
 
 1. return all appointments made in Clinton's administration 
