@@ -1,4 +1,4 @@
-# SQL, CQL, and MQL Queries
+# SQL, Neo4j(CQL), and MongoDB(MQL) Queries
 
 SQL queries for world database(countries, city, country language, life expectancy)
 
