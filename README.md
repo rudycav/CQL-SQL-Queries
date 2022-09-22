@@ -1,4 +1,4 @@
-# SQL/ CQL/ and MQL Queries
+# SQL, CQL, and MQL Queries
 
 SQL queries for world database(countries, city, country language, life expectancy)
 
