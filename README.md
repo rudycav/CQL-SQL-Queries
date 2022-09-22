@@ -1,4 +1,4 @@
-# Cypher and SQL Queries
+# CQL and SQL Queries
 
 SQL queries for world database(countries, city, country language, life expectancy)
 
