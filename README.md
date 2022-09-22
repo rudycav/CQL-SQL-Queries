@@ -15,6 +15,8 @@ MongoDB(MQL) queries for country locations, classification & movie database
 
 ## Neo4j Graph Database
 
+Graph database displaying US Presidents with all appointed positions in office
+
 ![](screenshots/graph1.JPG)
 
 ![](screenshots/graph2.JPG)
