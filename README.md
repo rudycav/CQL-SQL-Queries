@@ -3,7 +3,7 @@
 SQL queries for world database(countries, city, country language, life expectancy)
 
 
-MQL queries for country locations & classification
+MQL queries for country locations & classification & movie database
 
 
 CQL queries for dataset containing all cabinet level appointments from Washington to 
