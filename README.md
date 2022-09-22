@@ -1,4 +1,4 @@
-# MQL-Project-SQL-Queries
+# Cypher and SQL Queries
 
 SQL queries for world database(countries, city, country language, life expectancy)
 
