@@ -18,7 +18,7 @@ found at: https://github.com/taitcha/American_cabinet_appointments/find/master
 Graph database displaying US Presidents with all appointed positions in office
 
 ![](screenshots/graph1.JPG)
-<img src="screenshots/graph3" width="100">
+
 
 ![](screenshots/graph2.JPG)
 
