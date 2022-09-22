@@ -2,7 +2,9 @@
 
 SQL queries for world database(countries, city, country language, life expectancy)
 
+
 MQL queries for country locations & classification
+
 
 CQL queries for dataset containing all cabinet level appointments from Washington to 
 Trump. It consists of a number of files and tracks information such as the appointee 
