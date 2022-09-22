@@ -12,7 +12,8 @@ college, and whether the appointment was rejected or revised. The files can be
 found at: https://github.com/taitcha/American_cabinet_appointments/find/master
 
 - MongoDB(MQL) queries for country locations, classification & movie database
-<br /><br />
+<br />
+<br />
 
 ## Neo4j Graph Database
 
