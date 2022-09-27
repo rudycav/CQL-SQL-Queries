@@ -2,13 +2,11 @@ from pymongo import MongoClient
 from pymongo import errors as mongoerrors
 
 
-# manages a database connection
+
 class DBConnect:
-    # create a DBConnect object for the specified database
     def __init__(self, dbname):
         self.dbname = dbname
 
-    # creates a database connection and returns it
     def connect(self):
         self.client = None
         self.db = None
