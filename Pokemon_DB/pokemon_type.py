@@ -2,8 +2,7 @@ from pokemon_db_access import *
 from pokefields import *
 
 def print_pokemon(pokemon):
-    print("----------------------------------")
-    print("Our little friend is ", pokemon[NAME], " whose type is ", pokemon[TYPE])
+    print(pokemon[NAME], pokemon[TYPE])
     print("Statistics")
     print("Attack: ", pokemon[ATTACK], " Defense: ", pokemon[DEFENSE])
     moves = pokemon[MOVES]
